@@ -1,9 +1,10 @@
 <h1 align="center">
-next-advanced-apollo-starter
+LapixGame landing page and web app 
 </h1>
 
 <h4 align="center">
-  Advanced, but minimalistic Next.js and Apollo starter
+  Built using next-advanced-apollo-starter
+  (https://github.com/borisowsky/next-advanced-apollo-starter)
 </h4>
 
 <p align="center">
